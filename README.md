@@ -4,8 +4,8 @@
 package com.vladimirsimek.developer;
 
 public class Main {
-    aboutMe();
-    devSkills();
+    System.out.println(aboutMe());
+    System.out.println(devSkills());
 }
 
 public static void aboutMe() {
