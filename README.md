@@ -1,4 +1,3 @@
 # vladimirsimek
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vladimir-simek&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+<codersrank-summary username="vladimir-simek"></codersrank-summary>
