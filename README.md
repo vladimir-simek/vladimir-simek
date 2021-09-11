@@ -3,7 +3,7 @@
 ```java
 package com.vladimirsimek.developer;
 
-public class Main {
+public static void Main(String[] args) {
     aboutMe();
     devSkills();
 }
